@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 preserveAspectRatio="xMidYMid meet" width="282px" height="284px" viewBox="0 0 282 284" enable-background="new 0 0 282 284" xml:space="preserve">
+    
+    
+    
+    <circle id="oval2" stroke="none" fill="rgb(243, 242, 241)" cx="141" cy="141" r="141" />
+    <g id="group" clip-path="url(#oval)">
+        <clipPath id="oval">
+            <circle cx="141" cy="141" r="141" />
+        </clipPath>
+        <rect id="rectangle" stroke="none" fill="rgb(236, 160, 67)" x="109" y="0" width="32" height="156" />
+        <rect id="rectangle2" stroke="none" fill="rgb(246, 174, 96)" x="141" y="0" width="32" height="156" />
+        <polygon id="polygon2" stroke="none" fill="rgb(244, 197, 174)" points="125.5,138 141.52,156 109.48,156" />
+        <polygon id="polygon3" stroke="none" fill="rgb(244, 208, 189)" points="156.5,138 172.52,156 140.48,156" />
+        <g id="group2" clip-path="url(#rectangle3)">
+            <clipPath id="rectangle3">
+                <rect x="109" y="78" width="32" height="156" />
+            </clipPath>
+            <polygon id="polygon" stroke="none" fill="rgb(244, 197, 174)" points="141,220 173.04,155.5 108.96,155.5" />
+        </g>
+        <g id="group3" clip-path="url(#rectangle4)">
+            <clipPath id="rectangle4">
+                <rect x="141" y="78" width="32" height="156" />
+            </clipPath>
+            <polygon id="polygon4" stroke="none" fill="rgb(244, 208, 189)" points="141,220 173.04,155.5 108.96,155.5" />
+        </g>
+        <g id="group4" clip-path="url(#rectangle5)">
+            <clipPath id="rectangle5">
+                <rect x="109" y="197" width="32" height="37" />
+            </clipPath>
+            <polygon id="polygon5" stroke="none" fill="rgb(58, 164, 136)" points="141,220 173.04,155.5 108.96,155.5" />
+        </g>
+        <g id="group5" clip-path="url(#rectangle6)">
+            <clipPath id="rectangle6">
+                <rect x="141" y="197" width="32" height="37" />
+            </clipPath>
+            <polygon id="polygon6" stroke="none" fill="rgb(81, 191, 166)" points="141,220 108.96,155.5 173.04,155.5" />
+        </g>
+    </g>
+    <ellipse id="oval3" stroke="none" fill="rgb(226, 225, 224)" cx="140.5" cy="236.5" rx="10.5" ry="3.5" />
+</svg>
